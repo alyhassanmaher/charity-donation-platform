@@ -1,0 +1,3 @@
+Food Distribution|2025-06-01|Community Center|Monthly food distribution event
+Medical Camp|2025-06-15|City Hospital|Free medical checkup and consultation
+Education Workshop|2025-06-30|Local School|Teaching basic skills to underprivileged children

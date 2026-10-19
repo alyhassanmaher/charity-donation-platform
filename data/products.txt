@@ -1,0 +1,3 @@
+Food Package|5|Basic food supplies for a family in need
+Medical Supplies|20|Essential medical supplies and first aid kit
+School Supplies|10|Educational materials and stationery for students

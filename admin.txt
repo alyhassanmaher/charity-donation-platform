@@ -1,0 +1,2 @@
+admin|change-me|admin
+administrator|change-me|administrator
